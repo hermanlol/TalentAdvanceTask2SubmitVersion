@@ -8,6 +8,8 @@ DATABASE : MONGODB
 
 WEB TECHNOLOGIES : REACT JS, ASP.NET /MVC/Web API, AJAX, HTML5/JavaScript/CSS
 
+CSS Library: Semantic UI
+
 ## Front-end
 
 > Convert dummy data to actual data fetched from the back-end
