@@ -10,12 +10,12 @@ WEB TECHNOLOGIES : REACT JS, ASP.NET /MVC/Web API, AJAX, HTML5/JavaScript/CSS
 
 ### Front-end
 
-Convert dummy data to actual data fetched from the back-end
+> Convert dummy data to actual data fetched from the back-end
 
-Add ajax calls to retrieve data from the controllers
+> Add ajax calls to retrieve data from the controllers
 
 
 
 ### Back-end
 
-Build action methods in controllers and in services to fetch data from the database
+> Build action methods in controllers and in services to fetch data from the database
